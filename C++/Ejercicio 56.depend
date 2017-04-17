@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1492472751 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 56\main.cpp
+	<iostream>
+	"Proceso.h"
+	"Registro.h"
+	"stdlib.h"
+
+1492471999 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 56\include\proceso.h
+	<iostream>
+
+1492472807 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 56\include\registro.h
+	"Proceso.h"
+	<iostream>
+
+1492471892 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 56\src\proceso.cpp
+	"Proceso.h"
+
